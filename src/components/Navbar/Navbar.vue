@@ -16,7 +16,7 @@
         <v-icon style="color: coral" size="20px">mdi-heart-outline</v-icon>
       </v-btn>
       <v-btn icon>
-        <v-icon style="color: green" size="20px">mdi-cart</v-icon>
+        <v-icon style="color: green" size="20npm run servepx">mdi-cart</v-icon>
       </v-btn>
 
       <v-btn icon>
