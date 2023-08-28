@@ -2,6 +2,9 @@
   <v-app id="app">
     <v-main>
       <Navbar />
+      <v-container>
+
+      </v-container>
       <router-view/>
     </v-main>
   </v-app>

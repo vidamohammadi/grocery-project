@@ -2,11 +2,11 @@
   <div>
     <v-app-bar
         color="white"
-        dense>
+        dense
+        flat>
       <v-toolbar-title>
         <v-icon style="color: green" size="30px">mdi-cart</v-icon>
-        <span style="color: green">e</span>
-        <span style="color: black">Grocery</span>
+        <span class="green--text">e</span><strong>Grocery</strong>
       </v-toolbar-title>
       <v-spacer></v-spacer>
 
